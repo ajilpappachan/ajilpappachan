@@ -37,6 +37,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/AA-Studios/Heavy-Dirty-Soul/pull/1) in [AA-Studios/Heavy-Dirty-Soul](https://github.com/AA-Studios/Heavy-Dirty-Soul)
+2. 💪 Opened PR [#1](https://github.com/AA-Studios/Heavy-Dirty-Soul/pull/1) in [AA-Studios/Heavy-Dirty-Soul](https://github.com/AA-Studios/Heavy-Dirty-Soul)
 <!--END_SECTION:activity-->
 
 </details>
