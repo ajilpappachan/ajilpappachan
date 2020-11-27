@@ -22,6 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ICAT IP Test Demo](https://www.youtube.com/watch?v=smuaM09F8Qs)
+- [Balls And Number Paddles | Gameplay Demo](https://www.youtube.com/watch?v=bDeigaOP8EU)
+- [HexaShrink | Gameplay Demo](https://www.youtube.com/watch?v=d7HBUzCrlpM)
+- [OpenGL Demo Castle](https://www.youtube.com/watch?v=j_2yD3cow60)
+- [Hide n Seek | Gameplay Demo](https://www.youtube.com/watch?v=f31LgIjxdWc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClZxSGBKdaWH6ob3g3x4a6A)
