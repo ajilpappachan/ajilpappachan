@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi there, I'm [Ajil Pappachan][website] 👋
 
-<!--
-**ajilpappachan/ajilpappachan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?down_message=offline&label=Portfolio%20Website&up_color=green&up_message=online&url=https%3A%2F%2Fajilpappachan.web.app)](https://ajilpappachan.web.app)
 
-Here are some ideas to get you started:
+## I'm a Programmer, Game Designer, Film Maker and Amatuer Writer!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐱‍👤 I am currently pursuing BSc. Game Programming Degree!
+- ⚡ Fun fact: I found myself pursuing a career in Game Design after I tried to contact Ubisoft with a story line for an Assassin's Creed game (I was young and naive 😄)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UClZxSGBKdaWH6ob3g3x4a6A)
+
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajilpappachan&show_icons=true&hide_border=true" />
+
+</details>
+
+[website]: https://ajilpappachan.web.app
+[youtube]: https://www.youtube.com/channel/UClZxSGBKdaWH6ob3g3x4a6A
+[instagram]: https://instagram.com/a_p_cubed
+[linkedin]: https://www.linkedin.com/in/ajil-pappachan-6b1277170/
