@@ -22,7 +22,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Rewind 2020](https://www.youtube.com/watch?v=88vhk6RlrJE)
+- [Rewind 2020 | Entropy](https://www.youtube.com/watch?v=88vhk6RlrJE)
 - [ICAT IP Test Demo](https://www.youtube.com/watch?v=smuaM09F8Qs)
 - [Balls And Number Paddles | Gameplay Demo](https://www.youtube.com/watch?v=bDeigaOP8EU)
 - [HexaShrink | Gameplay Demo](https://www.youtube.com/watch?v=d7HBUzCrlpM)
