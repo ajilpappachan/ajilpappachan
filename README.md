@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AR Tales Proof of Concept | AR Tales DevLog 2](https://www.youtube.com/watch?v=zj564kVQvK8)
+- [Learning AR Foundation with Unity | AR Tales DevLog 1](https://www.youtube.com/watch?v=rSghdjI-E8o)
 - [Rewind 2020 | Entropy](https://www.youtube.com/watch?v=88vhk6RlrJE)
 - [ICAT IP Test Demo](https://www.youtube.com/watch?v=smuaM09F8Qs)
 - [Balls And Number Paddles | Gameplay Demo](https://www.youtube.com/watch?v=bDeigaOP8EU)
-- [HexaShrink | Gameplay Demo](https://www.youtube.com/watch?v=d7HBUzCrlpM)
-- [OpenGL Demo Castle](https://www.youtube.com/watch?v=j_2yD3cow60)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClZxSGBKdaWH6ob3g3x4a6A)
