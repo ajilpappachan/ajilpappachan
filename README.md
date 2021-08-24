@@ -37,8 +37,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#259](https://github.com/ct-js/ct-js/issues/259) in [ct-js/ct-js](https://github.com/ct-js/ct-js)
-2. 🎉 Merged PR [#1](https://github.com/AA-Studios/Heavy-Dirty-Soul/pull/1) in [AA-Studios/Heavy-Dirty-Soul](https://github.com/AA-Studios/Heavy-Dirty-Soul)
+1. 🗣 Commented on [#283](https://github.com/kzahel/web-server-chrome/issues/283) in [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)
+2. 🗣 Commented on [#56](https://github.com/kzahel/web-server-chrome/issues/56) in [kzahel/web-server-chrome](https://github.com/kzahel/web-server-chrome)
 <!--END_SECTION:activity-->
 
 </details>
