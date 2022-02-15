@@ -22,11 +22,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Rewind 2021 | 01001111 01001011](https://www.youtube.com/watch?v=bxDNQNPmCa0)
 - [yEAT Prototype | Gameplay Demo](https://www.youtube.com/watch?v=Xzabkjo0EeU)
 - [OpenGL Renderer &lpar;GLEW + GLFW + Assimp + DearImGUI&rpar; | Demo](https://www.youtube.com/watch?v=dMPQNr5dtY8)
 - [Scramble | 2D Android Game | Gameplay Demo](https://www.youtube.com/watch?v=1ROB2Waq_Ak)
 - [AR Tales Proof of Concept | AR Tales DevLog 2](https://www.youtube.com/watch?v=zj564kVQvK8)
+- [Learning AR Foundation with Unity | AR Tales DevLog 1](https://www.youtube.com/watch?v=rSghdjI-E8o)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UClZxSGBKdaWH6ob3g3x4a6A)
